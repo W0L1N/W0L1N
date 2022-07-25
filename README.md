@@ -1,5 +1,17 @@
-### Hi there 👋
+### Hi, i'm Kacper Woliński and i'm (hopefully) future junior java developer 👋
 
+I’m currently working on "Manage your budget" app which purpose is to help in managing personal budget.
+
+Since i'm not college student yet, most of the time i spend on improving my knowledge and skills in java.
+
+My tech stack:<br/>
+-Java, OOP
+
+-Spring, SpringBoot, Jpa
+
+-Mysql, H2
+
+-JUnit, Mockito
 <!--
 **W0L1N/W0L1N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
