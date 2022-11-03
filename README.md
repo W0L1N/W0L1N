@@ -1,4 +1,4 @@
-### Hi, i'm Kacper Woliński and i'm future junior java developer 👋
+### Hi, i'm Kacper Woliński and i'm junior java developer 👋
 
 I’m currently working on "Manage your budget" app which purpose is to help in managing personal budget.
 
