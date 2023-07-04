@@ -9,7 +9,7 @@ My tech stack:<br/>
 
 -Spring, SpringBoot, Jpa
 
--Mysql, H2
+-Mysql, H2, Postgresql
 
 -JUnit, Mockito
 <!--
