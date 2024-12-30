@@ -1,28 +1,7 @@
-### Hi, i'm Kacper Woliński and i'm junior java developer 👋
+🎓 3rd-year student at Lublin University of Technology 
+💻 Java Developer with over 2 years of experience (including 6 months as a Fullstack Developer) 
+🏆 HackYeah 2024 Finalist
 
-I’m currently working on "Manage your budget" app which purpose is to help in managing personal budget.
+Welcome to my GitHub! I’m a passionate Java Developer with a strong foundation in backend and fullstack development. For over two years, I’ve been working on projects that merge cutting-edge technologies with practical solutions, continuously striving to improve my skills and deliver high-quality code.
 
-Since i'm not college student yet, most of the time i spend on improving my knowledge and skills in java.
-
-My tech stack:<br/>
--Java, OOP
-
--Spring, SpringBoot, Jpa
-
--Mysql, H2, Postgresql
-
--JUnit, Mockito
-<!--
-**W0L1N/W0L1N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At HackYeah 2024, I was honored to be a finalist for my work on innovative solutions. One of the highlighted projects from the event is CountryBike, which you can check out under this link: CountryBike.
